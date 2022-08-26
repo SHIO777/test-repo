@@ -26,18 +26,24 @@ git push origin develop     # Caution! mainではなく，develop
 ```
 
 ## Merge
+### 1
 developブランチ作成後，mainブランチにマージする．
 Githubを開き，Pull requestsページに行く．
 `New pull request`ボタンを押し，下のページにいく．
 ![1.png](img/1.png)
+### 2
 左上の`main <- main`を`main <- develop`に変更する．
 ![2.png](img/2.png)
+### 3
 プルリクエストする．メッセージを追加し，`Create pull request`を押す．
 ![3.png](img/3.png)
+### 4
 `merge pull request`ボタンを押す．
 ![4.png](img/4.png)
+### 5
 `Confirm merge`ボタンを押す．
 ![5.png](img/5.png)
+### 6
 マージ成功！！
 ![6.png](img/6.png)
 
