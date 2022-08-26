@@ -43,11 +43,11 @@ Githubを開き，Pull requestsページに行く．
 ## 5
 `Confirm merge`ボタンを押す．
 ![5.png](img/5.png)
-## 6 a
+## 6
 マージ成功！！
 ![6.png](img/6.png)
 
-## マージ終了後
+## Merge終了後
 
 ```.git
 git switch main             # brahchをmainに切り替える
