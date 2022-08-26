@@ -58,4 +58,4 @@ Githubを開き，Pull requestsページに行く．
 git switch main             # brahchをmainに切り替える
 git pull origin main        # Github上の最新バージョンをローカルに反映する
  ```
->>>>>>> 6275e8790856e6cc97dc6f8b8a1fa52e3f96be4b
+
