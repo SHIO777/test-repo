@@ -25,6 +25,11 @@ git commit -m "YOUR_COMMIT_MESSAGE"
 git push origin develop     # Caution! mainではなく，develop
 ```
 
+<<<<<<< HEAD
+
+# Issuesを追加
+この欄はIssuesを追加するところ
+=======
 # Merge
 developブランチ作成後，mainブランチにマージする．
 ## 1
@@ -53,3 +58,4 @@ Githubを開き，Pull requestsページに行く．
 git switch main             # brahchをmainに切り替える
 git pull origin main        # Github上の最新バージョンをローカルに反映する
  ```
+
