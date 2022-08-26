@@ -26,3 +26,7 @@ git add .
 git commit -m "YOUR_COMMIT_MESSAGE"
 git push origin develop     # Caution! mainではなく，develop
 ```
+
+
+# Issuesを追加
+この欄はIssuesを追加するところ
